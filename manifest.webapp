@@ -1,0 +1,29 @@
+﻿{
+        "version": "1.0.0",
+	"name": "Blaster touch",
+	"description": "Touch game of candies",
+        "type": "web",
+	"launch_path": "/index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": {
+    "56": "ic_Appname_56.png",
+    "112": "ic_Appname_112.png"
+  },
+"developer": {
+    "name": "Ayushi",
+  },
+  "locales": {
+    "en-US": {
+      "name": "Blaster touch",
+      "subtitle": "Touch to eat candies and cake",
+      "description": "Avoid bombs"
+    }
+  },
+  "default_locale": "en-US"
+"categories": {
+  "games",
+  
+},
+}
